@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("instructiontool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+509f86eb55d36d78b13d800a6810bb3e73ab0499")]
 [assembly: System.Reflection.AssemblyProductAttribute("instructiontool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("instructiontool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

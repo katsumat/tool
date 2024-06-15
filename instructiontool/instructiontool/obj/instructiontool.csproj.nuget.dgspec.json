@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\instructiontool\\instructiontool\\instructiontool.csproj": {}
+    "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\instructiontool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\instructiontool\\instructiontool\\instructiontool.csproj": {
+    "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\instructiontool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\instructiontool\\instructiontool\\instructiontool.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\instructiontool.csproj",
         "projectName": "instructiontool",
-        "projectPath": "C:\\Users\\user\\source\\repos\\instructiontool\\instructiontool\\instructiontool.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\instructiontool.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\instructiontool\\instructiontool\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -33,6 +33,10 @@
             label1 = new Label();
             label2 = new Label();
             textBox2 = new TextBox();
+            textBox3 = new TextBox();
+            label3 = new Label();
+            label4 = new Label();
+            textBox4 = new TextBox();
             SuspendLayout();
             // 
             // button1
@@ -70,7 +74,6 @@
             label2.Size = new Size(53, 15);
             label2.TabIndex = 4;
             label2.Text = "COM No";
-            //label2.Click += this.label2_Click;
             // 
             // textBox2
             // 
@@ -80,11 +83,49 @@
             textBox2.TabIndex = 3;
             textBox2.TextChanged += textBox2_TextChanged;
             // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(197, 162);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(433, 23);
+            textBox3.TabIndex = 5;
+            textBox3.TextChanged += textBox3_TextChanged;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(126, 162);
+            label3.Name = "label3";
+            label3.Size = new Size(65, 15);
+            label3.TabIndex = 6;
+            label3.Text = "送信コマンド";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(126, 216);
+            label4.Name = "label4";
+            label4.Size = new Size(53, 15);
+            label4.TabIndex = 8;
+            label4.Text = "レスポンス";
+            // 
+            // textBox4
+            // 
+            textBox4.Location = new Point(197, 216);
+            textBox4.Name = "textBox4";
+            textBox4.Size = new Size(433, 23);
+            textBox4.TabIndex = 7;
+            textBox4.TextChanged += textBox4_TextChanged;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label4);
+            Controls.Add(textBox4);
+            Controls.Add(label3);
+            Controls.Add(textBox3);
             Controls.Add(label2);
             Controls.Add(textBox2);
             Controls.Add(label1);
@@ -103,5 +144,9 @@
         private Label label1;
         private Label label2;
         private TextBox textBox2;
+        private TextBox textBox3;
+        private Label label3;
+        private Label label4;
+        private TextBox textBox4;
     }
 }
