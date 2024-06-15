@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{442A87FC-EB9A-498D-9855-D38D8DB73B05}|instructiontool\\instructiontool.csproj|solutionrelative:instructiontool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{442A87FC-EB9A-498D-9855-D38D8DB73B05}|instructiontool\\instructiontool.csproj|c:\\users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{442A87FC-EB9A-498D-9855-D38D8DB73B05}|instructiontool\\instructiontool.csproj|C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{442A87FC-EB9A-498D-9855-D38D8DB73B05}|instructiontool\\instructiontool.csproj|solutionrelative:instructiontool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -29,33 +29,16 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\Form1.cs",
               "RelativeDocumentMoniker": "instructiontool\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "instructiontool\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\Form1.cs [Design]",
+              "RelativeToolTip": "instructiontool\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T06:20:26.127Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\Form1.cs",
-              "RelativeDocumentMoniker": "instructiontool\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\Form1.cs",
-              "RelativeToolTip": "instructiontool\\Form1.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAhwDUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T05:47:49.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T11:42:16.997Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -65,9 +48,21 @@
               "RelativeDocumentMoniker": "instructiontool\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\Form1.Designer.cs",
               "RelativeToolTip": "instructiontool\\Form1.Designer.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAEwG0AAAAhAAAA",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAjwIMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T06:04:18.629Z",
+              "WhenOpened": "2024-06-15T11:39:52.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\Form1.cs",
+              "RelativeDocumentMoniker": "instructiontool\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\tool\\instructiontool\\instructiontool\\Form1.cs",
+              "RelativeToolTip": "instructiontool\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:47:49.404Z",
               "EditorCaption": ""
             },
             {
