@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\instructiontool.Form1.resources
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\instructiontool.csproj.GenerateResource.cache
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\instructiontool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\instructiontool.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\instructiontool.AssemblyInfo.cs
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\instructiontool.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\instructiontool\instructiontool\bin\Debug\net8.0-windows\instructiontool.exe
+C:\Users\user\source\repos\instructiontool\instructiontool\bin\Debug\net8.0-windows\instructiontool.deps.json
+C:\Users\user\source\repos\instructiontool\instructiontool\bin\Debug\net8.0-windows\instructiontool.runtimeconfig.json
+C:\Users\user\source\repos\instructiontool\instructiontool\bin\Debug\net8.0-windows\instructiontool.dll
+C:\Users\user\source\repos\instructiontool\instructiontool\bin\Debug\net8.0-windows\instructiontool.pdb
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\instructiontool.dll
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\refint\instructiontool.dll
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\instructiontool.pdb
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\instructiontool.genruntimeconfig.cache
+C:\Users\user\source\repos\instructiontool\instructiontool\obj\Debug\net8.0-windows\ref\instructiontool.dll
